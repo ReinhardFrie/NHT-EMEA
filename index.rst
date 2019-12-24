@@ -8,11 +8,11 @@
 
   nutanix101/nutanix101
   ncc-ui/ncc-ui
-  :foundation-part-1/part1
-  :setup-cluster/setup-cluster
+  foundation-part-1/part1
+  setup-cluster/setup-cluster
   ncc-cmdl/ncc-cmdl
-  :xray/xray
-  :foundation-part-2/part2
+  xray/xray
+  foundation-part-2/part2
   deployment/deployment
 
 
@@ -23,10 +23,10 @@
   :hidden:
 
   files/files
-  :calm/calm
-  :flow/flow
-  :era/era
-  :karbon/karbon
+  calm/calm
+  flow/flow
+  era/era
+  karbon/karbon
 
 .. toctree::
   :maxdepth: 2
