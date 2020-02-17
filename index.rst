@@ -1,4 +1,4 @@
-.. title:: Nutanix New Hire Training
+.. title:: Nutanix TechEssentials 201
 
 .. toctree::
   :maxdepth: 2
@@ -8,13 +8,13 @@
 
   nutanix101/nutanix101
   ncc-ui/ncc-ui
-  foundation-part-1/part1
-  setup-cluster/setup-cluster
+  .. foundation-part-1/part1
+  .. setup-cluster/setup-cluster
   ncc-cmdl/ncc-cmdl
-  xray/xray
-  foundation-part-2/part2
+  .. xray/xray
+  .. foundation-part-2/part2
   deployment/deployment
-
+  Sizer/sizing-nutanix
 
 .. toctree::
   :maxdepth: 2
