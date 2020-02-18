@@ -1,12 +1,14 @@
-.. title:: Nutanix TechEssentials 201
+Nutanix TechEssentials 201 Basic Architecture & Sizing
 
 .. toctree::
   :maxdepth: 2
-  :caption: Day 1 - Labs
+  :caption: TechEssentials Day 1 - Labs
   :name: _labs1
   :hidden:
 
-  nutanix101/nutanix101
+  nutanix-basics/ntnxbasics 
+
+  nutanix201/nutanix201
   ncc-ui/ncc-ui
   .. foundation-part-1/part1
   .. setup-cluster/setup-cluster
@@ -18,15 +20,15 @@
 
 .. toctree::
   :maxdepth: 2
-  :caption: Day 2 - Labs of Choice
+  :caption: TechEssentials Day 2 - Nutanix Sizing
   :name: _labs2
   :hidden:
 
-  files/files
-  calm/calm
-  flow/flow
-  era/era
-  karbon/karbon
+  .. files/files
+  .. calm/calm
+  .. flow/flow
+  .. era/era
+  .. karbon/karbon
 
 .. toctree::
   :maxdepth: 2
@@ -59,15 +61,14 @@ Welcome to the Nutanix 201 Workshop! Carefully review the **Overview** section o
 Cluster Access
 ++++++++++++++
 
-To make sure you use your IP addresses, naming and other information please use the below spreadsheet.
-For the IP address of your assigned Cluster use the IP Address in the Cluster IP column.
+To make sure you use your IP addresses, naming and other information please use the information your instructor has given to you.
 
 .. raw:: html
 
-  <iframe src="https://docs.google.com/a/nutanix.com/spreadsheets/d/e/2PACX-1vTohdHcbfSzB65Z1C8d7cAJEmDcZs5DDvUtsXPoezVwdLwOWHipU_Nu8U7ft1DmInKpnAvqWUP_ZfSd/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" style="position: relative; height: 600px; width: 98%; border: none"></iframe>
+  .. <iframe src="https://docs.google.com/a/nutanix.com/spreadsheets/d/e/2PACX-1vTohdHcbfSzB65Z1C8d7cAJEmDcZs5DDvUtsXPoezVwdLwOWHipU_Nu8U7ft1DmInKpnAvqWUP_ZfSd/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" style="position: relative; height: 600px; width: 98%; border: none"></iframe>
 
 .. note::
-    Write down your IP addresses on a piece of paper to make it a bit easier for yourself...
+.. Write down your IP addresses on a piece of paper to make it a bit easier for yourself...
 
 The Nutanix Hosted Proof of Concept (HPOC) environment can only be accessed via VPN or by connecting to the **NTNX_corp** network.
 
