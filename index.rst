@@ -1,12 +1,14 @@
+.. title:: Nutanix TechEssentials 201 Basic Architecture & Sizing
+******************************************************
 Nutanix TechEssentials 201 Basic Architecture & Sizing
-
+******************************************************
 .. toctree::
   :maxdepth: 2
   :caption: TechEssentials Day 1 - Labs
   :name: _labs1
   :hidden:
 
-  nutanix-basics/ntnxbasics 
+  nutanix-basics/ntnxbasics
 
   nutanix201/nutanix201
   ncc-ui/ncc-ui
