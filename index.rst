@@ -72,16 +72,20 @@ The Nutanix Hosted Proof of Concept (HPOC) environment can only be accessed via 
 Lab Access Methods
 -------------------------
 Parallels VDI
-1. Login to https://xld-uswest1.nutanix.com (for PHX) or https://xld-useast1.nutanix.com (for RTP) using your supplied credentials
-2. Select HTML5 (web browser) OR Install the Parallels Client
-3. Select a desktop or application of your choice.
+*************
+
+1.Login to https://xld-uswest1.nutanix.com (for PHX) or https://xld-useast1.nutanix.com (for RTP) using your supplied credentials.
+2.Select HTML5 (web browser) OR Install the Parallels Client.
+3.Select a desktop or application of your choice.
 
 Pulse Secure VPN Client
-1. If client already installed skip to step 5
-2. To download the client, login to https://xlv-uswest1.nutanix.com or https://xlv-useast1.nutanix.com using the supplied user credentials
-3. Download and install client
-4. Logout of the Web UI
-5. Open client and ADD a connection with the following details:
+***********************
+
+1. If client already installed skip to step 5.
+2. To download the client, login to https://xlv-uswest1.nutanix.com or https://xlv-useast1.nutanix.com using the supplied user credentials.
+3. Download and install client.
+4. Logout of the Web UI.
+5. Open client and ADD a connection with the following details:.
 
 Type: Policy Secure (UAC) or Connection Server(VPN)
 Name: X-Labs - PHX
