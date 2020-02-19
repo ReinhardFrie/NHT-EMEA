@@ -1,7 +1,8 @@
 .. title:: Nutanix TechEssentials 201 Basic Architecture & Sizing
-******************************************************
+.. ******************************************************
 Nutanix TechEssentials 201 Basic Architecture & Sizing
-******************************************************
+.. ******************************************************
+
 .. toctree::
   :maxdepth: 2
   :caption: TechEssentials Day 1 - Labs
@@ -18,7 +19,7 @@ Nutanix TechEssentials 201 Basic Architecture & Sizing
   .. xray/xray
   .. foundation-part-2/part2
   deployment/deployment
-  Sizer/sizing-nutanix
+  .. Sizer/sizing-nutanix
 
 .. toctree::
   :maxdepth: 2
@@ -53,7 +54,7 @@ Getting Started
   <strong><font color="red">Do not start any labs before being told to do so by your
   instructor.</font></strong><br><br>
 
-Welcome to the Nutanix 201 Workshop! Carefully review the **Overview** section of each lab before proceeding with the exercise.
+Welcome to the Nutanix TechEssentials 201 Workshop! Carefully review the **Overview** section of each lab before proceeding with the exercise.
 
 .. note::
   Shown screenshots are there for example purposes! Use **your** information!
