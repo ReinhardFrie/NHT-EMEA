@@ -65,12 +65,8 @@ Cluster Access
 
 To make sure you use your IP addresses, naming and other information please use the information your instructor has given to you.
 
-.. raw:: html
-
-  .. <iframe src="https://docs.google.com/a/nutanix.com/spreadsheets/d/e/2PACX-1vTohdHcbfSzB65Z1C8d7cAJEmDcZs5DDvUtsXPoezVwdLwOWHipU_Nu8U7ft1DmInKpnAvqWUP_ZfSd/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" style="position: relative; height: 600px; width: 98%; border: none"></iframe>
-
 .. note::
-.. Write down your IP addresses on a piece of paper to make it a bit easier for yourself...
+Write down your IP addresses on a piece of paper to make it a bit easier for yourself...
 
 The Nutanix Hosted Proof of Concept (HPOC) environment can only be accessed via VPN or by connecting to the **NTNX_corp** network.
 

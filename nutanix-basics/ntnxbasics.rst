@@ -4,7 +4,7 @@ Topics to be discussed:
 
 NX Node Naming Convention
 +++++++++++++++++++++++++
-*Objective: familiarity with native NX*
+*Objective: familiarity yourself with native NX! For not NX Systems, please get in touch with the designated Vendor*
 
 .. image:: node-naming.png
    :width: 700
@@ -12,11 +12,13 @@ NX Node Naming Convention
 
 Cluster & Node architecture
 +++++++++++++++++++++++++++
-*Objective: prepare audience to be able to draw up our architecture*
+*Objective: prepare yourself to be able to draw up our architecture*
 
 .. image:: hl-architecture.png
    :width: 700
    :alt: Nutanix High Level Architecture
+
+-----------------------------------------
 
 I/O CDP
 +++++++
@@ -35,6 +37,8 @@ I/O CDP
 
 -  North/South & East/West data locality of virtual machine *hot* data (explain that no other HCI vendor functions in this manner)
 
+----------------------------------------------------
+
 Data locality
 +++++++++++++
 *Objective: re-iterate the North/South & East/West CDP and where it isn’t a good fit*
@@ -42,6 +46,8 @@ Data locality
 -  Use the example of a VM migration where the data is local, VM moves and where data now resides in relation to its original
 
 -  When data locality doesn’t work well (de-dupe, ABS and storage only nodes)
+
+---------------------------------------------------
 
 Replication Factors (RF2 & RF3)
 +++++++++++++++++++++++++++++++
@@ -53,6 +59,8 @@ Replication Factors (RF2 & RF3)
 
 -  RF3 can suffer up to 25% performance degradation versus RF2 due to its additional write and metadata updates
 
+-----------------------------------
+
 Storage Pools and Containers
 ++++++++++++++++++++++++++++
 *Objective: describe the methods used by the hypervisors and that minimal is the utopia*
@@ -62,6 +70,8 @@ Storage Pools and Containers
 -  What is the ‘perfect’ amount of Containers in a single Nutanix Cluster?
 
 -  Store templates and VMs on the same container
+
+------------------------------------
 
 Compression / Deduplication / Erasure Coding (EC-X)
 +++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -92,7 +102,7 @@ Compression / Deduplication / Erasure Coding (EC-X)
 -  When to use the methods above in different environments
 -  Don't forget to mention the dynamic behaviours and how no other HCI vendors compare to us
 
-
+-------------------------------------------------
 
 Data Protection
 +++++++++++++++
@@ -118,6 +128,7 @@ Data Protection
 
    - AWS S3 & Azure Blobs (these require compute resource for the CVM)
 
+--------------------------------------------
 
 Networking
 ++++++++++
@@ -146,7 +157,7 @@ Networking
 
 -  Support ‘supported’ NIC speeds and refer to the Networking Best Practice Guide (BP2050)
 
-
+-----------------------------------------
 
 Mixing and matching of nodes
 ++++++++++++++++++++++++++++
@@ -168,7 +179,7 @@ Mixing and matching of nodes
 
    -  Mixed node configurations in the same block is not permitted, it's not a technical reason
 
-
+-------------------------------------------
 
 Expansion and Reduction
 +++++++++++++++++++++++
@@ -184,7 +195,7 @@ Expansion and Reduction
 
       -  Duration of node eviction
 
-
+---------------------------------------------------
 
 Failure scenarios
 +++++++++++++++++
@@ -214,7 +225,7 @@ Failure scenarios
 
    -  Protection domain snapshots fail
 
-
+------------------------------------------------
 
 Shadow Clones
 +++++++++++++
@@ -228,7 +239,7 @@ Shadow Clones
 
 -  Functionality difference between ESXi / Hyper-V and AHV (Copy of write, no waiting for three CVM trigger)
 
-
+-----------------------------------------------
 
 Data-at-rest-Encryption
 +++++++++++++++++++++++
@@ -240,7 +251,7 @@ Data-at-rest-Encryption
 
 -  KMS options, third party and Nutanix native
 
-
+------------------------------------------------
 
 Prism / Prism Central
 +++++++++++++++++++++
@@ -252,7 +263,7 @@ Prism / Prism Central
 
 -  Prism Central Scale-Out
 
-
+-------------------------------------------------
 
 Nutanix Files
 +++++++++++++
@@ -266,7 +277,7 @@ Nutanix Files
 
 -  Replication options
 
-
+--------------------------------------------
 
 Nutanix Volumes
 +++++++++++++++
@@ -280,7 +291,7 @@ Nutanix Volumes
 
 -  Replication options
 
-
+-----------------------------------------
 
 Hypervisors
 +++++++++++

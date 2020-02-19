@@ -16,11 +16,12 @@ In this exercise you will use one of the common tools that can accelerate resolu
 Cluster Details
 ...............
 
-Using the spreadsheet below, locate your **Group Number** and corresponding details for your assigned cluster.
+Use the information from you Instructor to locate and access your Cluster
+.. Using the spreadsheet below, locate your **Group Number** and corresponding details for your assigned cluster.
 
 .. raw:: html
 
-   <iframe src="https://docs.google.com/a/nutanix.com/spreadsheets/d/e/2PACX-1vTohdHcbfSzB65Z1C8d7cAJEmDcZs5DDvUtsXPoezVwdLwOWHipU_Nu8U7ft1DmInKpnAvqWUP_ZfSd/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" style="position: relative; height: 400px; width: 98%; border: none"></iframe>
+.. <iframe src="https://docs.google.com/a/nutanix.com/spreadsheets/d/e/2PACX-1vTohdHcbfSzB65Z1C8d7cAJEmDcZs5DDvUtsXPoezVwdLwOWHipU_Nu8U7ft1DmInKpnAvqWUP_ZfSd/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" style="position: relative; height: 400px; width: 98%; border: none"></iframe>
 
 References
 ..........
