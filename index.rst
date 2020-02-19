@@ -1,8 +1,11 @@
 .. title:: Nutanix TechEssentials 201 Basic Architecture & Sizing
 
+Nutanix TechEssentials 201 Basic Architecture & Sizing
+#######################################################
+
 .. toctree::
   :maxdepth: 2
-  :caption: TechEssentials Day 1 - Labs
+  :caption: TechEssentials 201 - Day 1 - Labs
   :name: _labs1
   :hidden:
 
@@ -15,12 +18,12 @@
   ncc-cmdl/ncc-cmdl
   .. xray/xray
   .. foundation-part-2/part2
-  deployment/deployment
+  .. deployment/deployment
   .. Sizer/sizing-nutanix
 
 .. toctree::
   :maxdepth: 2
-  :caption: TechEssentials Day 2 - Nutanix Sizing
+  :caption: TechEssentials 201 Day 2 - Nutanix Sizing
   :name: _labs2
   :hidden:
 
@@ -74,9 +77,9 @@ Lab Access Methods
 Parallels VDI
 *************
 
-1.Login to https://xld-uswest1.nutanix.com (for PHX) or https://xld-useast1.nutanix.com (for RTP) using your supplied credentials.
-2.Select HTML5 (web browser) OR Install the Parallels Client.
-3.Select a desktop or application of your choice.
+1. Login to https://xld-uswest1.nutanix.com (for PHX) or https://xld-useast1.nutanix.com (for RTP) using your supplied credentials.
+2. Select HTML5 (web browser) OR Install the Parallels Client.
+3. Select a desktop or application of your choice.
 
 Pulse Secure VPN Client
 ***********************
