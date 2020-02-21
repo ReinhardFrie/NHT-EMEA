@@ -3,7 +3,7 @@
 .. _nutanix201:
 
 ------------------------------------------------------------------
-Nutanix 201 Nutanix TechEssentials 201 Basic Architecture & Sizing
+Nutanix TechEssentials 201 Basic Architecture & Sizing
 ------------------------------------------------------------------
 
 *The estimated time to complete this lab is 60 minutes.*
