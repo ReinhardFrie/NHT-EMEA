@@ -27,7 +27,14 @@ Nutanix TechEssentials 201 Basic Architecture & Sizing
   :name: _labs2
   :hidden:
 
-  nutanix-sizing/nutanix-sizing
+  nutanix-sizing/what_is_sizer/what_is_sizer
+  nutanix-sizing/sizer/intro-lab/intro-lab
+  nutanix-sizing/discovery/servervirt/servervirt
+  nutanix-sizing/discovery/ntnx/ntnx
+  nutanix-sizing/datacollection/rvtools-lab1/rvtools-lab1
+  nutanix-sizing/datacollection/rvtools/rvtools
+  nutanix-sizing/datacollection/rvtools-lab1-answers/rvtools-lab1-answers
+  nutanix-sizing/nutanix-sizing/nutanix-sizing
 
 .. toctree::
   :maxdepth: 2

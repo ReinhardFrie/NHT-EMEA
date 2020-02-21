@@ -1,13 +1,13 @@
 Nutanix TechEssentials 201 Sizing Workshop for Partners
 =======================================================
 
-  what_is_sizer/what_is_sizer
-  sizer/intro-lab/intro-lab
-  discovery/servervirt/servervirt
-  discovery/ntnx/ntnx
-  datacollection/rvtools-lab1/rvtools-lab1
-  datacollection/rvtools/rvtools
-  datacollection/rvtools-lab1-answers/rvtools-lab1-answers
+.. what_is_sizer/what_is_sizer
+.. sizer/intro-lab/intro-lab
+..   discovery/servervirt/servervirt
+..   discovery/ntnx/ntnx
+..   datacollection/rvtools-lab1/rvtools-lab1
+..   datacollection/rvtools/rvtools
+..   datacollection/rvtools-lab1-answers/rvtools-lab1-answers
 
 
 .. _getting_started:
