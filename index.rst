@@ -5,7 +5,7 @@ Nutanix TechEssentials 201 Basic Architecture & Sizing
 
 .. toctree::
   :maxdepth: 2
-  :caption: 201 - Day 1 - Labs
+  :caption: Nutanix 201 - Day 1 - Labs
   :name: _labs1
   :hidden:
 
@@ -23,7 +23,7 @@ Nutanix TechEssentials 201 Basic Architecture & Sizing
 
 .. toctree::
   :maxdepth: 2
-  :caption: 201 Day 2 - Nutanix Sizing
+  :caption: Nutanix 201 Day 2 - Sizing
   :name: _labs2
   :hidden:
 
