@@ -27,12 +27,7 @@ Nutanix TechEssentials 201 Basic Architecture & Sizing
   :name: _labs2
   :hidden:
 
-  nutanix-sizing/nutanix-Sizing
-  .. files/files
-  .. calm/calm
-  .. flow/flow
-  .. era/era
-  .. karbon/karbon
+  nutanix-sizing/nutanix-sizing
 
 .. toctree::
   :maxdepth: 2
@@ -40,9 +35,11 @@ Nutanix TechEssentials 201 Basic Architecture & Sizing
   :name: _labsA
   :hidden:
 
+  files/files
   tools_vms/linux_tools_vm
   tools_vms/windows_tools_vm
   taskman/taskman
+
 
 
 .. _getting_started:
