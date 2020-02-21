@@ -5,7 +5,7 @@ Nutanix TechEssentials 201 Basic Architecture & Sizing
 
 .. toctree::
   :maxdepth: 2
-  :caption: TechEssentials 201 - Day 1 - Labs
+  :caption: 201 - Day 1 - Labs
   :name: _labs1
   :hidden:
 
@@ -23,7 +23,7 @@ Nutanix TechEssentials 201 Basic Architecture & Sizing
 
 .. toctree::
   :maxdepth: 2
-  :caption: TechEssentials 201 Day 2 - Nutanix Sizing
+  :caption: 201 Day 2 - Nutanix Sizing
   :name: _labs2
   :hidden:
 
@@ -38,7 +38,7 @@ Nutanix TechEssentials 201 Basic Architecture & Sizing
   files/files
   tools_vms/linux_tools_vm
   tools_vms/windows_tools_vm
-  taskman/taskman
+  .. taskman/taskman
 
 
 
