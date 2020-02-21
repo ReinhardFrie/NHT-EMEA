@@ -27,6 +27,7 @@ Nutanix TechEssentials 201 Basic Architecture & Sizing
   :name: _labs2
   :hidden:
 
+  nutanix-sizing/nutanix-Sizing
   .. files/files
   .. calm/calm
   .. flow/flow
