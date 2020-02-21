@@ -25,7 +25,7 @@
     :name: _sizer
     :hidden:
 
-    .. what_is_sizer_lenovo/what_is_sizer_lenovo
+    .. what_is_sizer/what_is_sizer
     sizer/intro-lab/intro-lab
 
 .. toctree::
