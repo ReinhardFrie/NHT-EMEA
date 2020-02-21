@@ -1,40 +1,14 @@
-.. title:: Nutanix TechEssentials 201 Sizing Workshop for Partners
+Nutanix TechEssentials 201 Sizing Workshop for Partners
+=======================================================
 
-.. toctree::
-  :maxdepth: 2
-  :caption: Discovery
-  :name: _discovery
-  :hidden:
-
+  what_is_sizer/what_is_sizer
+  sizer/intro-lab/intro-lab
   discovery/servervirt/servervirt
   discovery/ntnx/ntnx
-
-.. toctree::
-  :maxdepth: 2
-  :caption: Data Collection & Analysis Lab
-  :name: _datacollection
-  :hidden:
-
   datacollection/rvtools-lab1/rvtools-lab1
   datacollection/rvtools/rvtools
   datacollection/rvtools-lab1-answers/rvtools-lab1-answers
 
-.. toctree::
-    :maxdepth: 2
-    :caption: Sizer
-    :name: _sizer
-    :hidden:
-
-    .. what_is_sizer/what_is_sizer
-    sizer/intro-lab/intro-lab
-
-.. toctree::
-    :maxdepth: 2
-    :caption: Appendix
-    :name: _appendix
-    :hidden:
-
-    rvtools/rvtools
 
 .. _getting_started:
 

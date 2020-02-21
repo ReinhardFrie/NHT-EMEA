@@ -1,7 +1,7 @@
 .. _files:
 
 -------------
-Nutabux Files
+Nutanix Files
 -------------
 
 *The estimated time to complete this lab is 60 minutes.*
