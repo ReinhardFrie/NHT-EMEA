@@ -1,8 +1,16 @@
 .. _what_is_sizer:
 
---------------
-What is Sizer
---------------
+--------------------------
+Nutanix Sizer Why?
+--------------------------
+
+One of the most common mistakes people make when designing solutions is making assumptions. Assumptions in short are things an architect has failed to investigate and/or validate which puts a project at risk of not delivering the desired business outcome/s
+
+  * Differnt worksloads needs different resources --> The Workload profile!
+  * Oversized VM`s are or can be a problem!
+  * performance
+  * Reliability
+  * TCO
 
 Accessing Sizer
 +++++++++++++++
@@ -37,6 +45,8 @@ Sizer also has the following Workload Support:
 Other key benefits include:
 
 - RV Tools Import
+- Nutanix Collector Import
+- Oracle Workload Import 
 - Sizing for Mixed Workloads within a cluster
 - Homogeneous and Heterogeneous node mix
 - Automatic recommended sizing, as well as Manual override option
