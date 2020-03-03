@@ -32,9 +32,9 @@ Nutanix TechEssentials 201 Basic Architecture & Sizing
   nutanix-sizing/sizer/intro-lab/intro-lab
   nutanix-sizing/discovery/servervirt/servervirt
   nutanix-sizing/discovery/ntnx/ntnx
-  nutanix-sizing/collector/collector
-  nutanix-sizing/datacollection/rvtools-lab1/rvtools-lab1
+  .. nutanix-sizing/collector/collector
   nutanix-sizing/datacollection/rvtools/rvtools
+  nutanix-sizing/datacollection/rvtools-lab1/rvtools-lab1
   nutanix-sizing/datacollection/rvtools-lab1-answers/rvtools-lab1-answers
 
 
